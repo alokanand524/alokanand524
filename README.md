@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, open-source projects, and building scalable applications.
 - 🌱 I’m currently learning Laravel to deepen my backend development skills.
 - 💞️ I’m looking to collaborate on open-source Laravel projects or web-based applications.
-- 📫 How to reach me: alokanand524@gmail.com.
+- 📫 How to reach me: anand.alok.171@gmail.com.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I can spend hours debugging, but the solution is usually just a missing semicolon 😅.
 
