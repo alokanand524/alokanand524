@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Grocery App](https://github.com/alokanand524/blinkit-clone)
 
-- 🌱 I’m currently learning **webRTC**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **open-source Laravel projects or web-based applications**
 
