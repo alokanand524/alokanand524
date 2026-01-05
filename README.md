@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokanand524&label=Profile%20views&color=0e75b6&style=flat" alt="alokanand524" /> </p>
 
-- 🔭 I’m currently working on [Grocery App](https://github.com/alokanand524/Jhola-Bazar)
+- 🔭 I’m currently working on [Grocery App(Quick Commerce)](https://github.com/alokanand524/Jhola-Bazar)
 
 - 🌱 I’m currently learning **React Native**
 
